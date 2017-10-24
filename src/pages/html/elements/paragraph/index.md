@@ -2,6 +2,10 @@
 title: Paragraph
 ---
 ## Paragraph
+```html
+  <p>
+```
+The p tag is used to define a paragraph. 
 
 This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/html/elements/paragraph/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
 
